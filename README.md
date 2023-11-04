@@ -4,14 +4,14 @@ Simulazione tunnel asciugatura 2023
 
 Bisogna fissare i piedini di controllo del LEDche simula la lampada ad infrarossi:
 
-    const int pinSensorePresenzaPezzo = 2;  //pin collegamento del sensore presenza
-    const int IR_Lamp_Pin = 12;  
+        const int pinSensorePresenzaPezzo = 2;  //pin collegamento del sensore presenza
+        const int IR_Lamp_Pin = 12;  
 
 Dichiaro le variabili necessarie:
 
-    bool presenzaPezzo = false; //stato del sensore di presenza pezzo
-    int HR_Numerico = 0;
-    float HR = 100; 
+        bool presenzaPezzo = false; //stato del sensore di presenza pezzo
+        int HR_Numerico = 0;
+        float HR = 100; 
 
 
 ## Fase di Setup:
