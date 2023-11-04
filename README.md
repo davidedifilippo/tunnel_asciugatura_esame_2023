@@ -2,7 +2,7 @@
 
 Simulazione tunnel asciugatura 2023
 
-![scheda di simulazione del tunnel di asciugatura](http://mdp.tylingsoft.com/icon.png)
+![scheda di simulazione del tunnel di asciugatura](scheda_simula_tunnel_asciugatura.png)
 
 Bisogna fissare i piedini di controllo del LEDche simula la lampada ad infrarossi:
 
