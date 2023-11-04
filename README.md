@@ -1,6 +1,6 @@
 ## Tunnel_asciugatura_esame_2023
 
-Simulazione tunnel asciugatura 2023
+Simulazione tunnel asciugatura 2023. Nella figura il pulsante simula il sensore di segnalazione presenza pezzo. Il potenziometro simula il sensore di umidità. Il led simula la lampada ad infrarossi.
 
 ![scheda di simulazione del tunnel di asciugatura](scheda_simula_tunnel_asciugatura.png)
 
