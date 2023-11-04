@@ -2,6 +2,8 @@
 
 Simulazione tunnel asciugatura 2023
 
+![scheda di simulazione del tunnel di asciugatura](http://mdp.tylingsoft.com/icon.png)
+
 Bisogna fissare i piedini di controllo del LEDche simula la lampada ad infrarossi:
 
         const int pinSensorePresenzaPezzo = 2;  //pin collegamento del sensore presenza
