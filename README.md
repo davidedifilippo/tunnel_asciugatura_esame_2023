@@ -16,9 +16,9 @@ Dichiaro le variabili necessarie:
 
 ## Fase di Setup:
   
-  Serial.begin(9600);
-  pinMode(IR_Lamp_Pin, OUTPUT);
-  pinMode(pinSensorePresenzaPezzo, INPUT);
+      Serial.begin(9600);
+      pinMode(IR_Lamp_Pin, OUTPUT);
+      pinMode(pinSensorePresenzaPezzo, INPUT);
 
   
 
@@ -51,7 +51,7 @@ Stampo il messaggio di attesa pezzo:
   Esco dal ciclo se HR è minore del 10%:
   
       Serial.println("pezzo asciutto...");
-      digitalWrite(ledPin, LOW); //lampada infrarossi OFF
+      digitalWrite(IR_Lamp_Pin, LOW); //lampada infrarossi OFF
 
  Tolgo il pezzo:
  
